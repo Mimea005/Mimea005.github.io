@@ -1,14 +1,20 @@
 body{
 
-background-color:orange;
+background-color:black;
 font-size:24px;
-color:grey;
+color:orange;
 
 }
 
 p.Style1{
 
 font-size:20px;
-color:5555FF;
+color:darkorange;
 
+}
+
+a.styled_links{
+
+color:FFFF22;
+font-size:15px;
 }
