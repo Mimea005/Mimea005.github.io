@@ -1,0 +1,16 @@
+body{
+background:Black;
+color:orange;
+font-family: arial;
+}
+
+.alert{
+background:red;
+color:white;
+font-family:times new roman;
+}
+
+a{
+color:orange;
+
+}
