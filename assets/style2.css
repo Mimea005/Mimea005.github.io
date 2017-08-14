@@ -1,0 +1,27 @@
+body{
+background:lightblue;
+color:grey;
+font-family:arial;
+}
+p{
+font-size:26px;
+}
+
+.hidden{
+color:lightblue;
+}
+.Attention{
+font-family:Times new roman;
+font-size:36px;
+color:black;
+background:red;
+}
+
+h1.Attention{
+font-size:42px;
+}
+
+a.Attention{
+font-size:36px;
+color:darkblue;
+}
